@@ -1,0 +1,3 @@
+v1	named	intermediary
+METHOD	com/example/orangeclient/mixin/CameraMixin	(DDD)V	setPos	method_19327
+METHOD	com/example/orangeclient/mixin/CameraMixin	(FF)V	setRotation	method_19325
